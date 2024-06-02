@@ -1,3 +1,11 @@
 *.jpg
 *.jpeg
 *.png
+*.zip
+*.log
+*.txt
+*.yaml
+*.wandb
+*.json
+*.pth
+wandb/latest-run
